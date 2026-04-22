@@ -14,7 +14,7 @@ I help startups and SaaS companies design, build, and scale high-performance bac
 ✔️ Optimized AWS infrastructure to lower costs & improve performance  
 
 🧰 Tech Stack:  
-Python • Django • FastAPI • AWS • AI Integrations • Automation  
+Python • Django • FastAPI • AWS • AI Integrations • Ml • Automation  
 React • Next.js • Tailwind CSS • Docker • PostgreSQL • Redis  
 
 🌐 Portfolio: https://rahulkashyap.vercel.app/  
