@@ -30,7 +30,10 @@ React • Next.js • Tailwind CSS • Docker • PostgreSQL • Redis
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Rahul86999&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Rahul86999&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rahul86999&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🧠 Core Stack
+Python • Django • FastAPI • AI • AWS • Automation
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul86999&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=html,css,scss)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul86999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
