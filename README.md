@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on building AI-driven web applications and scalable SaaS products, focusing on real-world problem solving and performance.
+🚀 Senior Python Backend Engineer with 6+ years of experience building scalable APIs, AI-powered systems, and cloud infrastructure.
 
 
 ## 🌐 Socials:
