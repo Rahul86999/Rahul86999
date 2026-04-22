@@ -35,11 +35,9 @@ React • Next.js • Tailwind CSS • Docker • PostgreSQL • Redis
 </p>
 
 ## 🧠 Core Stack
-Python • Django • FastAPI • AI • AWS • Automation • React • Next.js • Tailwind
+Python • Django • FastAPI • AI • AWS • Automation
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul86999&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=html,css,scss&langs_count=6"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul86999&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=html,css,scss,javascript)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul86999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
