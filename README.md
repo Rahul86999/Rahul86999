@@ -1,5 +1,25 @@
-# 💫 About Me:
-🚀 Senior Python Backend Engineer with 6+ years of experience building scalable APIs, AI-powered systems, and cloud infrastructure.
+# 💫 About Me
+
+🚀 Senior Python Backend Engineer with 6+ years of experience building scalable APIs, AI-powered systems, and cloud-native infrastructure.
+
+I help startups and SaaS companies design, build, and scale high-performance backend systems using Django, FastAPI, and AWS — with a strong focus on AI integrations, automation, and real business impact.
+
+🤖 I build AI-powered backends, integrate LLMs and third-party APIs, and create automation workflows that reduce manual work and improve efficiency.
+
+⚡ I also develop modern frontend interfaces using React, Next.js, and Tailwind CSS to deliver complete, production-ready applications.
+
+✔️ 20+ production systems deployed  
+✔️ Reduced deployment time by 40% with CI/CD automation  
+✔️ Built AI integrations & automation systems  
+✔️ Optimized AWS infrastructure to lower costs & improve performance  
+
+🧰 Tech Stack:  
+Python • Django • FastAPI • AWS • AI Integrations • Automation  
+React • Next.js • Tailwind CSS • Docker • PostgreSQL • Redis  
+
+🌐 Portfolio: https://rahulkashyap.vercel.app/  
+
+👉 Available for freelance, backend, AI, and full-stack projects
 
 
 ## 🌐 Socials:
