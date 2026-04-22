@@ -1,5 +1,6 @@
-# 💫 About Me
 <h1 align="center">Hi 👋, I'm Rahul Kashyap</h1>
+# 💫 About Me
+
 🚀 Senior Python Backend Engineer with 6+ years of experience building scalable APIs, AI-powered systems, and cloud-native infrastructure.
 
 I help startups and SaaS companies design, build, and scale high-performance backend systems using Django, FastAPI, and AWS — with a strong focus on AI integrations, automation, and real business impact.
